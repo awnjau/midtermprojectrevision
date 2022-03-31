@@ -1,8 +1,5 @@
 
-@media only screen and (max-width: 768px) {
-  [class*="div-main"] {
-    width: 50%;
-  }
+
   * {
   box-sizing: border-box;
 }
