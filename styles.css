@@ -1,5 +1,3 @@
-
-
   * {
   box-sizing: border-box;
 }
@@ -452,3 +450,7 @@ font-family: 'Changa', sans-serif;
 font-size:130%;
  text-align:center;
 }
+@media only screen and (max-width: 768px) {
+  [class*="div-"] {
+    width: 25%;
+  }
