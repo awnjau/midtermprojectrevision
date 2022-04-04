@@ -451,10 +451,30 @@ font-size:130%;
 }
 @media only screen and (max-width: 1000px) {
   [class*="div-2"] {
-    width: 75%;
+    width: 60%;
   }
-  [class*="div-1"]{
-  width:75%
+  [class*="div-3"] {
+    width: 30%;
+  }
+  [class*="div-4"] {
+    width: 30%;
+  }
+  [class*="div-5"] {
+    width: 30%;
+  }
+  [class*="div-14a"] {
+    font-size:200%;
+    text-align:center;
+    width: 85%;
+    height:auto;
+    margin:auto;
+  }
+  [class*="div-13a"] {
+    font-size:200%;
+    text-align:center;
+    width: 85%;
+    height:auto;
+    margin:auto;
   }
 
 }
