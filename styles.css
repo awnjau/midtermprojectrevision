@@ -449,7 +449,8 @@ font-family: 'Changa', sans-serif;
 font-size:130%;
  text-align:center;
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 770px) {
+  }
   [class*="div-2"] {
     width: 60%;
   }
@@ -462,6 +463,25 @@ font-size:130%;
   [class*="div-5"] {
     width: 30%;
   }
+  [class*="div-6"] {
+    padding-left:125px;
+    padding-right:125px;
+    padding-top: 5px;
+    padding-bottom:5px;
+  }
+  [class*="div-9"] {
+    padding-left:125px;
+    padding-right:125px;
+    padding-top: 5px;
+    padding-bottom:5px;
+  }
+  [class*="div-12"] {
+    padding-left:125px;
+    padding-right:125px;
+    padding-top: 5px;
+    padding-bottom:5px;
+  }
+
   [class*="div-14a"] {
     font-size:200%;
     text-align:center;
