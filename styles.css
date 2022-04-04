@@ -449,6 +449,7 @@ font-size:130%;
   }
   [class*="div-2"] {
     width: 60%;
+    font-size: 220%;
   }
   [class*="div-3"] {
     width: 30%;
@@ -492,6 +493,28 @@ font-size:130%;
     padding-top: 5px;
     padding-bottom:5px;
   }
+  [class*="div-10ai"] {
+    width:75%;
+  }
+  [class*="div-10b"] {
+    font-size:200%;
+    width:75%;
+  }
+  [class*="div-10c"] {
+    font-size:200%;
+    width:75%;
+  }
+  [class*="div-11ai"] {
+    width:75%;
+  }
+  [class*="div-11b"] {
+    font-size:200%;
+    width:75%;
+  }
+  [class*="div-11c"] {
+    font-size:200%;
+    width:75%;
+  }
   [class*="div-12"] {
     padding-left:130px;
     padding-right:130px;
@@ -499,19 +522,42 @@ font-size:130%;
     padding-bottom:5px;
   }
 
-  [class*="div-14a"] {
+  [class*="div-13a"] {
     font-size:200%;
-    text-align:center;
     width: 85%;
     height:auto;
     margin:auto;
   }
-  [class*="div-13a"] {
+  [class*="div-13ai"] {
+    width:75%;
+    text-align:right;
+  }
+  [class*="div-13b"] {
     font-size:200%;
-    text-align:center;
-    width: 85%;
+    width:75%;
+  }
+  [class*="div-13c"] {
+    font-size:200%;
+    width:75%;
+  }
+
+  [class*="div-14a"] {
+    font-size:200%;
+    width: 75%;
     height:auto;
     margin:auto;
+  }
+  [class*="div-14ai"] {
+    width:75%;
+    text-align:left;
+  }
+  [class*="div-14b"] {
+    font-size:200%;
+    width:75%;
+  }
+  [class*="div-14c"] {
+    font-size:200%;
+    width:75%;
   }
 
 }
