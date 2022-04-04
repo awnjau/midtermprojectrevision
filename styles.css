@@ -559,5 +559,8 @@ font-size:130%;
     font-size:200%;
     width:75%;
   }
+  [class*="div-14d"] {
+    font-size:200%;
+  }
 
 }
