@@ -249,7 +249,7 @@ a:hover {
 }
 .div-8ai{
   font-size:200%;
-  text-align:center;
+  text-align:left;
   width: 75%;
   height:auto;
   margin:auto;
@@ -260,18 +260,14 @@ a:hover {
   height:auto;
   margin:auto;
   font-size: 130%;
-  position:relative;
-  right:15%;
-  bottom:0.1%;
+
 }
 .div-8c{
   width: 50%;
   height:auto;
   margin:auto;
   font-size: 130%;
-  position:relative;
-  right:15%;
-  bottom:0.1%;
+
 }
 
 .flex-container4{
@@ -464,20 +460,41 @@ font-size:130%;
     width: 30%;
   }
   [class*="div-6"] {
-    padding-left:125px;
-    padding-right:125px;
+    padding-left:130px;
+    padding-right:130px;
     padding-top: 5px;
     padding-bottom:5px;
+
   }
+  [class*="div-7ai"] {
+    width:75%;
+  }
+  [class*="div-7b"] {
+    font-size:200%;
+    width:75%;
+  }
+  [class*="div-7c"] {
+    font-size:200%;
+    width:75%;
+  }
+  [class*="div-8b"] {
+    font-size:200%;
+    width:75%;
+  }
+  [class*="div-8c"] {
+    font-size:200%;
+    width:75%;
+  }
+
   [class*="div-9"] {
-    padding-left:125px;
-    padding-right:125px;
+    padding-left:130px;
+    padding-right:130px;
     padding-top: 5px;
     padding-bottom:5px;
   }
   [class*="div-12"] {
-    padding-left:125px;
-    padding-right:125px;
+    padding-left:130px;
+    padding-right:130px;
     padding-top: 5px;
     padding-bottom:5px;
   }
